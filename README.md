@@ -1,2 +1,2 @@
 # Reantazo_Blogsite_Prefinals
-My Prefinals in CSDC105
+Hello there! This is my Prefinals in CSDC105.
